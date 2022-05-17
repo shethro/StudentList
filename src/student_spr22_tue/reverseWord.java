@@ -4,7 +4,7 @@ package student_spr22_tue;
 import java.util.Scanner;
 
 
-// added comments at 1:32 PM 
+
 
 public class reverseWord {
     public static void main(String[] args) {
