@@ -1,6 +1,7 @@
 
 package student_spr22_tue;
 //added comments for pull  operation
+//added comments for fetch and merge
 public class Student {
     private int studentNum;
     private String studentName;
