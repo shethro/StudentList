@@ -1,6 +1,6 @@
 
 package student_spr22_tue;
-
+//added comments for pull  operation
 public class Student {
     private int studentNum;
     private String studentName;
